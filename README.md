@@ -1,5 +1,5 @@
 # CioGo
-*A reimplementation of Cíonom in Go because (*something something*) Go*
+*A reimplementation of Cíonom in Go because \*something something\* Go*
 
 See [Cíonom](https://github.com/Th3T3chn0G1t/Cionom).
 
